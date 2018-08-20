@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-15 16:33-0700\n"
 "PO-Revision-Date: 2018-06-15 16:33-0700\n"
-"Last-Translator: Automatically generated\n"
+"Last-Translator: Xosé M. <correo@xmgz.eu>\n"
 "Language-Team: none\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
@@ -13,34 +13,34 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgid "Latest articles"
-msgstr ""
+msgstr "Últimos artigos"
 
 msgid "No posts to see here yet."
-msgstr ""
+msgstr "Nada por aquí polo momento."
 
 msgid "New article"
-msgstr ""
+msgstr "Novo artigo"
 
 msgid "New blog"
-msgstr ""
+msgstr "Novo blog"
 
 msgid "Create a blog"
-msgstr ""
+msgstr "Crear un blog"
 
 msgid "Title"
-msgstr ""
+msgstr "Título"
 
 msgid "Create blog"
-msgstr ""
+msgstr "Crear un blog"
 
 msgid "Comment \"{{ post }}\""
-msgstr ""
+msgstr "Comentar \"{{ post }}\""
 
 msgid "Content"
-msgstr ""
+msgstr "Contido"
 
 msgid "Submit comment"
-msgstr ""
+msgstr "Enviar comentario"
 
 msgid "Something broke on our side."
 msgstr ""
